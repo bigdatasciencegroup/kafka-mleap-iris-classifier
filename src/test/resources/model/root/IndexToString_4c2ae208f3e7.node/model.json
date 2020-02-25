@@ -1,0 +1,15 @@
+{
+  "op": "reverse_string_indexer",
+  "attributes": {
+    "labels": {
+      "string": ["Iris-setosa", "Iris-versicolor", "Iris-virginica"],
+      "type": "list"
+    },
+    "input_shape": {
+      "data_shape": {
+        "base": "scalar",
+        "isNullable": false
+      }
+    }
+  }
+}

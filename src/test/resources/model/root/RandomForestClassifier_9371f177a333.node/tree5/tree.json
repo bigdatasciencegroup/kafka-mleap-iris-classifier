@@ -1,0 +1,7 @@
+{"type":"internal","split":{"type":"continuous","featureIndex":3,"threshold":0.45}}
+{"type":"leaf","values":[54.0,0.0,0.0]}
+{"type":"internal","split":{"type":"continuous","featureIndex":3,"threshold":1.65}}
+{"type":"internal","split":{"type":"continuous","featureIndex":2,"threshold":4.95}}
+{"type":"leaf","values":[0.0,66.0,0.0]}
+{"type":"leaf","values":[0.0,0.0,6.0]}
+{"type":"leaf","values":[0.0,0.0,49.0]}

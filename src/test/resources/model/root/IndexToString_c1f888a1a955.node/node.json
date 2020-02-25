@@ -1,0 +1,13 @@
+{
+  "name": "IndexToString_c1f888a1a955",
+  "shape": {
+    "inputs": [{
+      "port": "input",
+      "name": "prediction"
+    }],
+    "outputs": [{
+      "port": "output",
+      "name": "predictedLabel"
+    }]
+  }
+}

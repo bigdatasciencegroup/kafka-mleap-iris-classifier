@@ -1,0 +1,11 @@
+{
+  "op": "decision_tree_classifier",
+  "attributes": {
+    "num_features": {
+      "long": 4
+    },
+    "num_classes": {
+      "long": 3
+    }
+  }
+}

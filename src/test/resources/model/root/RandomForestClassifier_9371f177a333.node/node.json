@@ -1,0 +1,19 @@
+{
+  "name": "RandomForestClassifier_9371f177a333",
+  "shape": {
+    "inputs": [{
+      "port": "features",
+      "name": "features"
+    }],
+    "outputs": [{
+      "port": "raw_prediction",
+      "name": "rawPrediction"
+    }, {
+      "port": "probability",
+      "name": "probability"
+    }, {
+      "port": "prediction",
+      "name": "prediction"
+    }]
+  }
+}

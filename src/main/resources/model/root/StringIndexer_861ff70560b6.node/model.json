@@ -1,0 +1,12 @@
+{
+  "op": "string_indexer",
+  "attributes": {
+    "labels": {
+      "string": ["Iris-setosa", "Iris-versicolor", "Iris-virginica"],
+      "type": "list"
+    },
+    "handle_invalid": {
+      "string": "error"
+    }
+  }
+}

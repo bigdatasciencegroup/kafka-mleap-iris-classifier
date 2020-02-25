@@ -1,0 +1,9 @@
+{
+  "op": "pipeline",
+  "attributes": {
+    "nodes": {
+      "string": ["StringIndexer_861ff70560b6", "VectorAssembler_839786251799", "RandomForestClassifier_9371f177a333", "IndexToString_4c2ae208f3e7"],
+      "type": "list"
+    }
+  }
+}
